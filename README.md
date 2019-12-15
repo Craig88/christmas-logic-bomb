@@ -15,10 +15,10 @@ Try running the code: [Live Demo](https://trinket.io/python3/c47ff05883)
 
 Things to try...
 
-1. Try running the code using the link above
-2. Currently the bomb is triggered on Christmas Day, try changing the code so it is trigger on today's date
+1. Try running the code using the [live link](https://trinket.io/python3/c47ff05883)
+2. Currently the bomb is triggered on Christmas Day, try changing the code so it is triggered on today's date
 3. Try changing the message that is displayed when the bomb is triggered
-4. Add in other target dates and display relevant messages depending on the date (New Year's Day, Halloween, St Valentine's Day)
+4. Add in other target dates and display relevant messages on those dates (for example New Year's Day, Halloween, St Valentine's Day)
 
 ### Built with
 * [Python](https://www.python.org/)
