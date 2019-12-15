@@ -32,5 +32,5 @@ Things to try...
 
 ---
 
-Craig Steele <cr@igsteele.com>
+Craig Steele <cr@igsteele.com> </br>
 join Craig's [Digital Skills Newsletter](http://eepurl.com/giQHof)
