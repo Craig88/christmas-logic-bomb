@@ -1,4 +1,4 @@
-# Christmas Logic Bomb
+# Christmas Logic Bomb :christmas_tree: :bomb:
 
 **A simple "logic bomb" written in Python that displays a festive greeting on Christmas Day.**
 
